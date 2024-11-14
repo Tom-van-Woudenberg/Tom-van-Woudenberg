@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![photo](Tom.jpg)
+![photo](Tom_red.jpg)
 
 Tom van Woudenberg is a lecturer at the Faculty of Civil Engineering and Geosciences. Equipped with a dedication to education in structural mechanics, I strive to cultivate a blended learning environment that engages students actively and rewards their efforts.
 
