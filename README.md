@@ -2,7 +2,7 @@
 
 ![photo](Tom_red.jpg)
 
-Tom van Woudenberg is a lecturer at the Faculty of Civil Engineering and Geosciences. Equipped with a dedication to education in structural mechanics, I strive to cultivate a blended learning environment that engages students actively and rewards their efforts.
+Tom van Woudenberg is a lecturer at Delft University of Technology. Equipped with a dedication to education in structural mechanics, I strive to cultivate a blended learning environment that engages students actively and rewards their efforts.
 
 Tom graduated in 2020 at Delft University of Technology on structural optimisation. From August 2020 to August 2022, Tom worked at Amsterdam University of Applied Sciences as lecturer construction, specialised in structural mechanics. Since September 2022, Tom is working at Delft University of Technology.
 
